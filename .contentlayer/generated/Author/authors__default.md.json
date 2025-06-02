@@ -1,0 +1,26 @@
+{
+  "name": "Kanta Azassu",
+  "avatar": "/static/images/avatar.png",
+  "occupation": "Japanese Language Teacher",
+  "company": "Freelance",
+  "email": "kanta@example.com",
+  "twitter": "https://twitter.com/username",
+  "linkedin": "https://linkedin.com/in/username",
+  "tiktok": "https://tiktok.com/@username",
+  "youtube": "https://youtube.com/@username",
+  "instagram": "https://instagram.com/username",
+  "body": {
+    "raw": "\nHello! I'm Kanta Azassu, a passionate Japanese language teacher dedicated to helping students discover the beauty and richness of Japanese culture through language learning.\n\n## About Me\n\nWith years of experience in language education, I specialize in creating personalized learning experiences that make Japanese accessible and enjoyable for students of all levels. Whether you're a complete beginner or looking to refine your advanced skills, I'm here to guide you on your Japanese learning journey.\n\n## Teaching Philosophy\n\nI believe that language learning should be:\n- **Interactive and engaging** - Using real-world scenarios and cultural contexts\n- **Personalized** - Tailored to your specific goals and learning style\n- **Practical** - Focused on skills you can use immediately\n- **Cultural** - Understanding Japan beyond just the language\n\n## What I Offer\n\n- **One-on-one lessons** - Personalized attention and customized curriculum\n- **Flexible scheduling** - Lessons that fit your busy lifestyle\n- **Cultural insights** - Learn about Japanese customs, traditions, and modern culture\n- **Practical conversation** - Real-world Japanese you can use right away\n\n## Follow My Journey\n\nI regularly share Japanese learning tips, cultural insights, and behind-the-scenes content on my social media channels. Follow me to stay connected and get daily doses of Japanese culture!\n\nReady to start your Japanese learning adventure? Book a lesson with me today! ",
+    "html": "<p>Hello! I'm Kanta Azassu, a passionate Japanese language teacher dedicated to helping students discover the beauty and richness of Japanese culture through language learning.</p>\n<h2>About Me</h2>\n<p>With years of experience in language education, I specialize in creating personalized learning experiences that make Japanese accessible and enjoyable for students of all levels. Whether you're a complete beginner or looking to refine your advanced skills, I'm here to guide you on your Japanese learning journey.</p>\n<h2>Teaching Philosophy</h2>\n<p>I believe that language learning should be:</p>\n<ul>\n<li><strong>Interactive and engaging</strong> - Using real-world scenarios and cultural contexts</li>\n<li><strong>Personalized</strong> - Tailored to your specific goals and learning style</li>\n<li><strong>Practical</strong> - Focused on skills you can use immediately</li>\n<li><strong>Cultural</strong> - Understanding Japan beyond just the language</li>\n</ul>\n<h2>What I Offer</h2>\n<ul>\n<li><strong>One-on-one lessons</strong> - Personalized attention and customized curriculum</li>\n<li><strong>Flexible scheduling</strong> - Lessons that fit your busy lifestyle</li>\n<li><strong>Cultural insights</strong> - Learn about Japanese customs, traditions, and modern culture</li>\n<li><strong>Practical conversation</strong> - Real-world Japanese you can use right away</li>\n</ul>\n<h2>Follow My Journey</h2>\n<p>I regularly share Japanese learning tips, cultural insights, and behind-the-scenes content on my social media channels. Follow me to stay connected and get daily doses of Japanese culture!</p>\n<p>Ready to start your Japanese learning adventure? Book a lesson with me today!</p>"
+  },
+  "_id": "authors/default.md",
+  "_raw": {
+    "sourceFilePath": "authors/default.md",
+    "sourceFileName": "default.md",
+    "sourceFileDir": "authors",
+    "contentType": "markdown",
+    "flattenedPath": "authors/default"
+  },
+  "type": "Author",
+  "slug": "default"
+}
